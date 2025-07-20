@@ -13,7 +13,7 @@ the algorithms as similar as possible and timed them the exact same way.
 While admittedly this is a biased and naive test, it does showcase the
 exact sort of work WASM is useful for.
 
-#TL;DR THE RESULTS
+## TL;DR THE RESULTS
 
 The primes test showed that the WASM implementatin was about 30% faster
 across all cases
