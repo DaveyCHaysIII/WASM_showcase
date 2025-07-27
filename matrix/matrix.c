@@ -1,7 +1,7 @@
 #include <stdint.h>
 #include <stdlib.h>
 
-#define N 128  // Adjust size here
+#define N 1024  // Adjust size here
 
 static int A[N][N];
 static int B[N][N];
